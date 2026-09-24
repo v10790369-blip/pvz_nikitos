@@ -1,0 +1,19 @@
+{
+    "name": "Растения против Зомби",
+    "short_name": "PvZ",
+    "description": "Мобильная игра про растения и зомби",
+    "start_url": "./",
+    "scope": "./",
+    "display": "fullscreen",
+    "orientation": "landscape",
+    "background_color": "#3e2f22",
+    "theme_color": "#4e342e",
+    "icons": [
+        {
+            "src": "./icon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ]
+}
